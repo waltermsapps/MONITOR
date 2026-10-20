@@ -1,4 +1,4 @@
-# 🌐 Painel de Monitoramento Simples em Python
+# 🌐 Painel de Monitoramento
 
 Um painel de monitoramento de servidores e APIs web leve, construído inteiramente com a **biblioteca padrão do Python** (sem dependências externas). Ele inicia um servidor HTTP local e exibe uma interface web responsiva e elegante que é atualizada automaticamente.
 
